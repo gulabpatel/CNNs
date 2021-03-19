@@ -4,5 +4,5 @@ We have used the following models;
 1. Resnet50
 2. InceptionV3
 
-##How to calculate the number of parameters in CNN and LSTM network 
+## How to calculate the number of parameters in CNN and LSTM network 
 For more details visit : https://www.youtube.com/watch?v=k70Z20WhEIY
