@@ -7,7 +7,8 @@ We have used the following models;
 ## Dataset
 Here, I will attach the link of training and testing set due to the over size.
 
-Training set - https://drive.google.com/drive/folders/1Dch4aNX5-m2zIYiATGf2_5-q4f76yNwf?usp=sharing
+Training set - https://drive.google.com/drive/folders/1Dch4aNX5-m2zIYiATGf2_5-q4f76yNwf?usp=sharing 
+
 testing set- https://drive.google.com/drive/folders/1hnaP6rMnXPDtk-h9L7n3Sz3ul4mg4fMo?usp=sharing
 
 ## How to calculate the number of parameters in CNN and LSTM network 
